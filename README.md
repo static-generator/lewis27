@@ -5,7 +5,9 @@ Moffatt, Johann Riley S.
 
 
 > Naga City
+
 ---
+
 Hobbies
 
 > 1.
@@ -13,6 +15,7 @@ Hobbies
 > 2.
 
 > 3.
+
 ---
 
 | Syntax | Description |
