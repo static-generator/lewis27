@@ -17,8 +17,3 @@ Hobbies
 > 3.
 
 ---
-
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
